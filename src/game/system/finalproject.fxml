@@ -1,7 +1,7 @@
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.text.Text?>
-<VBox fx:id="root" fx:controller="finalproject.system.Controller" xmlns:fx="http://javafx.com/fxml" stylesheets="@../../style.css">
+<VBox fx:id="root" fx:controller="game.system.Controller" xmlns:fx="http://javafx.com/fxml" stylesheets="@../../style.css">
     <MenuBar id="menubar">
         <Menu text="Control">
             <MenuItem text="Start Simulation" onAction="#startSimulation"></MenuItem>

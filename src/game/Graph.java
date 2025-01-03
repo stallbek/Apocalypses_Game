@@ -1,8 +1,8 @@
-package finalproject;
+package game;
 
 import java.util.ArrayList;
 
-import finalproject.system.Tile;
+import game.system.Tile;
 
 public class Graph {
 	private ArrayList<Tile> vertices;

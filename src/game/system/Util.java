@@ -1,11 +1,6 @@
-package finalproject.system;
+package game.system;
 
-import javafx.beans.value.ChangeListener;
-import javafx.beans.value.ObservableValue;
-import javafx.scene.Node;
 import javafx.scene.control.Button;
-import javafx.scene.control.CheckMenuItem;
-import javafx.scene.control.TextArea;
 
 public class Util {
     final static int BUTTON_PRE_WIDTH = 200;

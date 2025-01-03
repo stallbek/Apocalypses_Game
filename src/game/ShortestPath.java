@@ -1,6 +1,6 @@
-package finalproject;
+package game;
 
-import finalproject.system.Tile;
+import game.system.Tile;
 
 public class ShortestPath extends PathFindingService {
     public ShortestPath(Tile start) {

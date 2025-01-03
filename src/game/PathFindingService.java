@@ -1,14 +1,14 @@
-package finalproject;
+package game;
 
-import finalproject.system.Tile;
-import finalproject.tiles.MetroTile;
+import game.system.Tile;
+import game.tiles.MetroTile;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.LinkedList;
 
 
-import static finalproject.GraphTraversal.BFS;
+import static game.GraphTraversal.BFS;
 
 public abstract class PathFindingService {
 	Tile source;

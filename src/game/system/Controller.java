@@ -1,7 +1,7 @@
-package finalproject.system;
+package game.system;
 
-import finalproject.*;
-import finalproject.tiles.*;
+import game.*;
+import game.tiles.*;
 import javafx.animation.*;
 import javafx.fxml.FXML;
 import javafx.scene.Node;
@@ -13,7 +13,6 @@ import javafx.scene.input.MouseButton;
 import javafx.scene.layout.*;
 import javafx.scene.media.Media;
 import javafx.scene.media.MediaPlayer;
-import javafx.scene.paint.Color;
 import javafx.scene.paint.ImagePattern;
 import javafx.scene.shape.Line;
 import javafx.scene.shape.Rectangle;

@@ -1,10 +1,7 @@
-package finalproject;
+package game;
 
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-
-import finalproject.system.Tile;
+import game.system.Tile;
 
 public class SafestShortestPath extends ShortestPath {
 	public int health;

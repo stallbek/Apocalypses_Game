@@ -1,4 +1,4 @@
-package finalproject.system;
+package game.system;
 
 import java.util.ArrayList;
 

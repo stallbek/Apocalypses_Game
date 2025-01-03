@@ -1,4 +1,4 @@
-package finalproject.system;
+package game.system;
 
 
 import javafx.geometry.Insets;
@@ -7,13 +7,9 @@ import javafx.scene.image.Image;
 import javafx.scene.layout.*;
 import javafx.scene.paint.Color;
 import javafx.scene.paint.ImagePattern;
-import javafx.scene.paint.Paint;
 import javafx.scene.shape.Rectangle;
 import javafx.scene.text.Text;
 import javafx.scene.text.TextAlignment;
-
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 
 public class TileComponent extends StackPane {
 

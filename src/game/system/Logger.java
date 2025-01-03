@@ -1,4 +1,4 @@
-package finalproject.system;
+package game.system;
 
 import javafx.scene.control.ScrollPane;
 import javafx.scene.layout.VBox;

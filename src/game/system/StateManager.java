@@ -1,4 +1,4 @@
-package finalproject.system;
+package game.system;
 
 import javafx.beans.property.BooleanProperty;
 import javafx.beans.property.SimpleBooleanProperty;

@@ -1,7 +1,7 @@
-package finalproject.tiles;
+package game.tiles;
 
-import finalproject.system.Tile;
-import finalproject.system.TileType;
+import game.system.Tile;
+import game.system.TileType;
 
 public class PlainTile extends Tile {
     public PlainTile() {

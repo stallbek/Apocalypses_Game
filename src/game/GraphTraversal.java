@@ -1,6 +1,6 @@
-package finalproject;
+package game;
 
-import finalproject.system.Tile;
+import game.system.Tile;
 
 import java.util.ArrayList;
 import java.util.HashSet;

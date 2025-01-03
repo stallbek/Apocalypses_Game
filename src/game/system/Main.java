@@ -1,4 +1,4 @@
-package finalproject.system;
+package game.system;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

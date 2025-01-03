@@ -1,9 +1,9 @@
-package finalproject.tiles;
+package game.tiles;
 
-import finalproject.system.Tile;
-import finalproject.system.TileType;
+import game.system.Tile;
+import game.system.TileType;
 
-import static finalproject.GraphTraversal.BFS;
+import static game.GraphTraversal.BFS;
 
 public class MetroTile extends Tile {
 	public double metroTimeCost = 100;

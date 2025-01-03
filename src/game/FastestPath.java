@@ -1,6 +1,6 @@
-package finalproject;
+package game;
 
-import finalproject.system.Tile;
+import game.system.Tile;
 
 public class FastestPath extends PathFindingService {
     public FastestPath(Tile start) {
